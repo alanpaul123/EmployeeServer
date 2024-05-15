@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Godwin",
+      "email": "godwin@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "3",
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "4",
+      "name": "Abi",
+      "email": "abi@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "5",
+      "name": "Fahad",
+      "email": "fahad@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "6",
+      "name": "Nebu",
+      "email": "nebu@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "7",
+      "name": "Jeena",
+      "email": "jeena@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "8",
+      "name": "justin",
+      "email": "justin@gmail.com",
+      "status": "Active"
+    },
+    {
+      "id": "9",
+      "name": "hailey",
+      "email": "hailey@gmail.com",
+      "status": "Inactive"
+    },
+    {
+      "id": "a430",
+      "name": "Haris",
+      "email": "Haris@gmail.com",
+      "status": "Inactive"
+    }
+  ]
+}
