@@ -9,7 +9,7 @@ const middleware = jsonServer.defaults();
 const route = jsonServer.router("db.json");
 
 //set up port for running server app
-const PORT = 3000 || process.env.PORT;
+const PORT = process.env.PORT || 3000;
 
 EmpServer.use(middleware);
 EmpServer.use(route);
